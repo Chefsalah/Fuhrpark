@@ -1,0 +1,39 @@
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.csprojAssemblyReference.cache
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanverwaltungTests.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanverwaltungTests.pdb
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanVerwaltung.exe
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanVerwaltung.pdb
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanVerwaltung.exe.config
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.csproj.CopyComplete
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.dll
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.pdb
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanverwaltungTests.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanverwaltungTests.pdb
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanVerwaltung.exe
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanVerwaltung.pdb
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\FuhrplanVerwaltung.exe.config
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.csproj.AssemblyReference.cache
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.csproj.CoreCompileInputs.cache
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.csproj.CopyComplete
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.dll
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanverwaltungTests\obj\Debug\FuhrplanverwaltungTests.pdb

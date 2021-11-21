@@ -1,0 +1,13 @@
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.exe.config
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.exe
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.pdb
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.csprojAssemblyReference.cache
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.exe
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.pdb
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.exe.config
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.exe
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.pdb
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.csproj.AssemblyReference.cache
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.csproj.CoreCompileInputs.cache
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.exe
+C:\Users\chefs\OneDrive - Georg-Simon-Ohm Berufskolleg\Desktop\C# Projekte\FuhrplanVerwaltung\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.pdb
